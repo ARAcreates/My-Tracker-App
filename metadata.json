@@ -1,0 +1,8 @@
+
+{
+  "name": "My Tracker - Premium Progress Tracker",
+  "description": "A high-end, neumorphic educational progress tracker for students by Rihan Alam.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

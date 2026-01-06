@@ -1,0 +1,22 @@
+
+{
+  "name": "My Tracker - Premium Progress",
+  "short_name": "My Tracker",
+  "description": "Premium Neumorphic Study Progress Tracker by Rihan Alam",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#4f46e5",
+  "icons": [
+    {
+      "src": "https://api.dicebear.com/7.x/bottts/svg?seed=TrackerIcon&size=192",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://api.dicebear.com/7.x/bottts/svg?seed=TrackerIcon&size=512",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
